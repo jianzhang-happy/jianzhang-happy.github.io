@@ -45,7 +45,7 @@ theme:
   language: zh # 一些提示性的文字会变成中文
   icon:
     repo: fontawesome/brands/github
-edit_uri: edit/main/docs # 编辑按钮跳转的链接
+edit_uri: edit/master/docs # 编辑按钮跳转的链接
 ## [top-right corner]
 repo_url: https://github.com/jianzhang-happy/jianzhang-happy.github.io # 右上角点击跳转的链接
 repo_name: jianzhang-happy.github.io # 右上角的名字
