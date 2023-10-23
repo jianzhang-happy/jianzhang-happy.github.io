@@ -10,6 +10,15 @@ nav:
     - Notes/index.md 
     - Python:
       - Notes/Python/test.md
+    - LessonsLearned:
+      - Notes/LessonsLearned/PaperReproduce.md
+  - Research:
+    - Research/index.md
+    - Papers:
+      - Research/Papers/index.md
+      - TimeSeriesForecast:
+        - Are Transformers Effective for Time Series Forecasting: AreTransformersEffectiveforTimeSeriesForecasting.md
+
      
 # [UI]
 ## [top]
