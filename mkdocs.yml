@@ -17,7 +17,7 @@ nav:
     - Papers:
       - Research/Papers/index.md
       - TimeSeriesForecast:
-        - Are Transformers Effective for Time Series Forecasting: AreTransformersEffectiveforTimeSeriesForecasting.md
+        - Are Transformers Effective for Time Series Forecasting: Research/Papers/TimeSeriesForecast/AreTransformersEffectiveforTimeSeriesForecasting.md
 
      
 # [UI]
