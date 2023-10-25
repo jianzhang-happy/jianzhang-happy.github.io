@@ -7,17 +7,19 @@ site_description: 张健的个人网站
 # [Navigtion]
 nav:
   - 笔记:
-    - Notes/index.md 
+    - 笔记/index.md 
     - Python:
-      - Notes/Python/test.md
+      - 笔记/Python/test.md
     - Pytorch:
-      - Notes/Pytorch/Pytorch基础.md
+      - 笔记/Pytorch/Pytorch基础.md
     - 踩坑:
-      - Notes/LessonsLearned/PaperReproduce.md
+      - 笔记/踩坑/论文复现.md
+    - 刷题:
+      - 笔记/刷题/代码-动态规划.md
   - 研究:
-    - Research/index.md
+    - 研究/index.md
   - 论文:
-    - Papers/index.md
+    - 论文/index.md
     - 时间序列预测: 
       - Are Transformers Effective for Time Series Forecasting: Papers/TimeSeriesForecast/AreTransformersEffectiveforTimeSeriesForecasting.md
 
