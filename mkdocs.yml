@@ -9,9 +9,13 @@ nav:
   - 笔记:
     - 笔记/index.md 
     - Python:
-      - 笔记/Python/test.md
+      - 笔记/Python/Python易犯错误.md
+      - 笔记/Python/Python面向对象.md
     - Pytorch:
       - 笔记/Pytorch/Pytorch基础.md
+      - 笔记/Pytorch/Pytorch数据读取.md
+      - 笔记/Pytorch/Pytorch初始化.md
+      - 笔记/Pytorch/Pytorch常用Layer.md
     - 踩坑:
       - 笔记/踩坑/论文复现.md
     - 刷题:
