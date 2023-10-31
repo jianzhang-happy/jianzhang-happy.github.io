@@ -2,7 +2,7 @@
 
 [TOC]
 
-## 常用操作符
+## 常用函数/方法
 
 ### squeeze和unsqueeze
 
@@ -12,4 +12,17 @@
   - `Tensor.squeeze(dim=None)`
   - `torch.unsqueeze(input, dim)`：在dim维度上增加一个长度为1的维度
   - `Tensor.unsqueeze(dim)`
+
+### arange
+
+- 类似于`np.arange`,返回一个一维张量
+- 用法：
+  - torch.arange(start=0, end, step=1, *, out=None, dtype=None, layout=torch.strided, device=None, requires_grad=False) → Tensor
+
+### normal
+
+- 产生正态分布随机数张量
+- 用法：
+  - torch.arange(*start=0*, *end*, *step=1*, *, *out=None*, *dtype=None*, *layout=torch.strided*, *device=None*, *requires_grad=False*) → [Tensor](https://pytorch.org/docs/stable/tensors.html#torch.Tensor)
+  - 也可以指定形状参数size：torch.normal(*mean*, *std*, *size*, *, *out=None*) → [Tensor](https://pytorch.org/docs/stable/tensors.html#torch.Tensor) 
 
