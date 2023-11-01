@@ -16,7 +16,10 @@
 
 ### Dataset类
 
+- Dataset基类，实际项目中往往需要以此类为父类建立子类，子类必须重载`__getitem__`和`__len__`这两个函数。
+
 - 声明：torch.utils.data.Dataset(*args, **kwds)
+- 重载的`__getitem__`函数形式为`def __getitem__(self, index)`,其中index参数表示索引，此函数返回对应索引对应的数据（包括输入、输出等）；重载的`__len__`函数形式为`def __len__(self)`,返回数据集的长度。
 
 ### IterableDataset类
 

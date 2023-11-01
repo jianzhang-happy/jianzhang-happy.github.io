@@ -11,6 +11,8 @@ nav:
     - Python:
       - 笔记/Python/Python易犯错误.md
       - 笔记/Python/Python面向对象.md
+    - Python库教程:
+      - 笔记/Python库教程/optuna.md
     - Pytorch:
       - 笔记/Pytorch/Pytorch基础.md
       - 笔记/Pytorch/Pytorch数据读取.md
@@ -20,12 +22,14 @@ nav:
       - 笔记/踩坑/论文复现.md
     - 刷题:
       - 笔记/刷题/代码-动态规划.md
+      - 笔记/刷题/概率论.md
   - 研究:
     - 研究/index.md
   - 论文:
     - 论文/index.md
-    - 时间序列预测:
-      - Are Transformers Effective for Time Series Forecasting: 论文/时间序列预测/AreTransformersEffectiveforTimeSeriesForecasting.md
+    - 时序预测:
+      - AreTransformersEffectiveforTimeSeriesForecasting: 论文/时序预测/AreTransformersEffectiveforTimeSeriesForecasting.md
+      - FinancialTimeSeriesForecastingWithDeepLearningASystematicLiteratureReview2005–2019: 论文/时序预测/FinancialTimeSeriesForecastingWithDeepLearningASystematicLiteratureReview2005–2019.md
 
      
 # [UI]
