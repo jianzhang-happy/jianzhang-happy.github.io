@@ -11,24 +11,28 @@ nav:
     - Python:
       - 笔记/Python/Python易犯错误.md
       - 笔记/Python/Python面向对象.md
-    - Python库教程:
-      - 笔记/Python库教程/optuna.md
-      - 笔记/Python库教程/pandas.md
-      - 笔记/Python库教程/pandas透视表和reshape.md
-    - Pytorch:
-      - 笔记/Pytorch/Pytorch基础.md
-      - 笔记/Pytorch/Pytorch数据读取.md
-      - 笔记/Pytorch/Pytorch初始化.md
-      - 笔记/Pytorch/Pytorch常用Layer.md
-      - 笔记/Pytorch/torch.optim.md
-    - 踩坑:
-      - 笔记/踩坑/论文复现.md
-    - 刷题:
-      - 笔记/刷题/代码-动态规划.md
-      - 笔记/刷题/代码-单调栈.md
-      - 笔记/刷题/代码-贪心.md
-      - 笔记/刷题/数学题-概率论.md
-      - 笔记/刷题/数学题-微积分和线性代数.md
+      - 笔记/Python/pandas.md
+      - 笔记/Python/pandas透视表和reshape.md
+    - 深度学习:
+      - Pytorch:
+        - 笔记/深度学习/Pytorch/Pytorch基础.md
+        - 笔记/深度学习/Pytorch/Pytorch数据读取.md
+        - 笔记/深度学习/Pytorch/Pytorch初始化.md
+        - 笔记/深度学习/Pytorch/Pytorch常用Layer.md
+        - 笔记/深度学习/Pytorch/torch.optim.md
+      - lightgbm:
+        - 笔记/深度学习/lightgbm/lightgbm.md
+      - optuna:
+        - 笔记/深度学习/optuna/optuna.md
+        - 笔记/深度学习/optuna/lightgbm.md
+    - 经验:
+      - 笔记/经验/论文复现.md
+    - 面试刷题:
+      - 笔记/面试刷题/代码-动态规划.md
+      - 笔记/面试刷题/代码-单调栈.md
+      - 笔记/面试刷题/代码-贪心.md
+      - 笔记/面试刷题/数学题-概率论.md
+      - 笔记/面试刷题/数学题-微积分和线性代数.md
   - 研究:
     - 研究/index.md
   - 论文:
