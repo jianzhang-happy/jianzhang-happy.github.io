@@ -13,6 +13,8 @@ nav:
       - 笔记/Python/Python面向对象.md
       - 笔记/Python/pandas.md
       - 笔记/Python/pandas透视表和reshape.md
+      - 笔记/Python/list.md
+      - 笔记/Python/pandas.md
     - 深度学习:
       - Pytorch:
         - 笔记/深度学习/Pytorch/Pytorch基础.md
@@ -20,12 +22,20 @@ nav:
         - 笔记/深度学习/Pytorch/Pytorch初始化.md
         - 笔记/深度学习/Pytorch/Pytorch常用Layer.md
         - 笔记/深度学习/Pytorch/torch.optim.md
+        - 笔记/深度学习/Pytorch/torch.nn.md
+        - 笔记/深度学习/Pytorch/自动求导.md
       - lightgbm:
         - 笔记/深度学习/lightgbm/lightgbm.md
       - optuna:
         - 笔记/深度学习/optuna/optuna.md
         - 笔记/深度学习/optuna/lightgbm.md
+      - 理论:
+        - 笔记/深度学习/理论/权重初始化.md
+        - 笔记/深度学习/理论/线性回归.md
+        - 笔记/深度学习/理论/优化算法.md
     - 经验:
+      - 笔记/经验/GPU版本tensorflow和pytorch安装.md
+      - 笔记/经验/pip下载源设置.md
       - 笔记/经验/论文复现.md
     - 面试刷题:
       - 笔记/面试刷题/代码-动态规划.md
