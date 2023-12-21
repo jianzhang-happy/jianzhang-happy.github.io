@@ -15,6 +15,8 @@ nav:
       - 笔记/Python/pandas透视表和reshape.md
       - 笔记/Python/list.md
       - 笔记/Python/pandas.md
+      - 笔记/Python/numpy常用函数.md
+      - 笔记/Python/numpy数组索引.md
     - 深度学习:
       - Pytorch:
         - 笔记/深度学习/Pytorch/Pytorch基础.md
@@ -24,8 +26,10 @@ nav:
         - 笔记/深度学习/Pytorch/torch.optim.md
         - 笔记/深度学习/Pytorch/torch.nn.md
         - 笔记/深度学习/Pytorch/自动求导.md
+        - 笔记/深度学习/Pytorch/模型保存.md
       - lightgbm:
         - 笔记/深度学习/lightgbm/lightgbm.md
+        - 笔记/深度学习/lightgbm/lightgbm自定义损失函数.md
       - optuna:
         - 笔记/深度学习/optuna/optuna.md
         - 笔记/深度学习/optuna/lightgbm.md
@@ -33,16 +37,25 @@ nav:
         - 笔记/深度学习/理论/权重初始化.md
         - 笔记/深度学习/理论/线性回归.md
         - 笔记/深度学习/理论/优化算法.md
+    - 金融:
+      - 笔记/金融/期权.md
     - 经验:
       - 笔记/经验/GPU版本tensorflow和pytorch安装.md
       - 笔记/经验/pip下载源设置.md
       - 笔记/经验/论文复现.md
     - 笔面试:
       - 笔记/笔面试/HR面.md
+      - 笔记/笔面试/Brain_Teaser.md
       - 笔记/笔面试/代码-python易犯错误.md
       - 笔记/笔面试/代码-动态规划.md
       - 笔记/笔面试/代码-单调栈.md
       - 笔记/笔面试/代码-贪心.md
+      - 笔记/笔面试/代码-二叉树.md
+      - 笔记/笔面试/代码-二分法.md
+      - 笔记/笔面试/代码-双指针.md
+      - 笔记/笔面试/代码-哈希表.md
+      - 笔记/笔面试/代码-链表.md
+      - 笔记/笔面试/代码-推理题.md
       - 笔记/笔面试/机器学习.md
       - 笔记/笔面试/数学题-概率论.md
       - 笔记/笔面试/数学题-微积分和线性代数.md

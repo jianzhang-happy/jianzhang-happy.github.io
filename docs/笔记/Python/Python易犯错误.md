@@ -34,3 +34,9 @@ Y[:] = X + Y
 Y += X
 ```
 
+## pandas相关
+
+### `SettingWithCopyWarning`的解决办法
+
+- 警告详细内容为：SettingWithCopyWarning: A value is trying to be set on a copy of a slice from a DataFrame. Try using .loc[row_indexer,col_indexer] = value instead。出现这个警告说明使用了==链式索引赋值==，因为链式索引无法确定索引得到的数据是否是原始数据的复制，因此原始数据可能并没有正确赋值。
+- 解决办法：所有赋值操作都通过`.loc[index]`进行，可以先将index求出来。
